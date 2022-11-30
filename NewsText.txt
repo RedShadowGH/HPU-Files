@@ -1,13 +1,29 @@
 1st Dec 2022
-
 #####
-
 It's a beautiful time of the year and there is a new update, 1.7.0!
+This update is a big one containing a new series and several bug fixes and adjustments.
 
-Celebrate Christmas with:
-- The new Christmas series (3 Levels)
-- Game Jolt Trophies
-And more!
+MAIN CHANGES
+- CHRISTMAS SERIES! ​Three new levels with three new types of pain and suffering.
+- GAME JOLT TROPHIES! Earn rewards by playing the game!
+- Added Discord Rich Presence support.
+- Added new Versus level, LiteralHell by RedShadow
+​- Added new animation in the splash screen.
+​- New temporary menu theme.
+- Added News section in the Main Menu.
+- Added splash screen.
+- Removed auto-updater in favour of manual updating.
+- Finished rework of online code.
+- Added menu music, made by RedShadow-
+​- Changed icon and logo of the game to fit Christmas.
+
+​ADJUSTMENTS
+- ​Changed colours in the Easy Series.
+- Made Main Menu background more transparent.
+- Changed credits a little bit.
+
+​BUG FIXES
+​- Fixed editor crashes while testing.
 
 We are closing in on HPU updates so there will probably be three more updates before i finish this game.
 And i'm just saying, it's about to get spicy. Hope you are ready to become a finalist.
@@ -15,3 +31,5 @@ And i'm just saying, it's about to get spicy. Hope you are ready to become a fin
 Click SPACE to read patch notes.
 Merry Christmas!
 -RedShadow
+
+This update is a big one containing a new series and several bug fixes and adjustments.

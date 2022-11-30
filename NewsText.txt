@@ -21,6 +21,7 @@ MAIN CHANGES
 - ​Changed colours in the Easy Series.
 - Made Main Menu background more transparent.
 - Changed credits a little bit.
+- Changed names of "Laser ver" and "Laser hor" to "Laser" and "Rotated Laser"
 
 ​BUG FIXES
 ​- Fixed editor crashes while testing.

@@ -4,27 +4,27 @@ It's a beautiful time of the year and there is a new update, 1.7.0!
 This update is a big one containing a new series and several bug fixes and adjustments.
 
 MAIN CHANGES
-- CHRISTMAS SERIES! ​Three new levels with three new types of pain and suffering.
+- CHRISTMAS SERIES! Three new levels with three new types of pain and suffering.
 - GAME JOLT TROPHIES! Earn rewards by playing the game!
 - Added Discord Rich Presence support.
 - Added new Versus level, LiteralHell by RedShadow
-​- Added new animation in the splash screen.
-​- New temporary menu theme.
+- Added new animation in the splash screen.
+- New temporary menu theme.
 - Added News section in the Main Menu.
 - Added splash screen.
 - Removed auto-updater in favour of manual updating.
 - Finished rework of online code.
 - Added menu music, made by RedShadow-
-​- Changed icon and logo of the game to fit Christmas.
+- Changed icon and logo of the game to fit Christmas.
 
-​ADJUSTMENTS
+ADJUSTMENTS
 - ​Changed colours in the Easy Series.
 - Made Main Menu background more transparent.
 - Changed credits a little bit.
 - Changed names of "Laser ver" and "Laser hor" to "Laser" and "Rotated Laser"
 
-​BUG FIXES
-​- Fixed editor crashes while testing.
+BUG FIXES
+- Fixed editor crashes while testing.
 
 We are closing in on HPU updates so there will probably be three more updates before i finish this game.
 And i'm just saying, it's about to get spicy. Hope you are ready to become a finalist.
@@ -32,5 +32,3 @@ And i'm just saying, it's about to get spicy. Hope you are ready to become a fin
 Click SPACE to read patch notes.
 Merry Christmas!
 -RedShadow
-
-This update is a big one containing a new series and several bug fixes and adjustments.

@@ -15,7 +15,7 @@ MAIN CHANGES
 - Added splash screen.
 - Removed auto-updater in favour of manual updating.
 - Finished rework of online code.
-- Added menu music, made by RedShadow-
+- Added menu music, made by RedShadow
 - Changed icon and logo of the game to fit Christmas.
 
 ADJUSTMENTS
@@ -30,6 +30,5 @@ BUG FIXES
 We are closing in on HPU updates so there will probably be one more update before i finish this game.
 And i'm just saying, it's about to get spicy. Hope you are ready to become a finalist.
 
-Click SPACE to read patch notes.
 Merry Christmas!
 -RedShadow

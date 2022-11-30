@@ -7,7 +7,7 @@ MAIN CHANGES
 - CHRISTMAS SERIES! Three new levels with three new types of pain and suffering.
 - GAME JOLT TROPHIES! Earn rewards by playing the game!
 - Added Discord Rich Presence support.
-- Added new jump and double jump effects. (Only in editor for now)
+- Added new jump and double jump effects. (Only in Versus and Editor for now)
 - Added new Versus level, LiteralHell by RedShadow
 - Added new animation in the splash screen.
 - New temporary menu theme.
@@ -27,7 +27,7 @@ ADJUSTMENTS
 BUG FIXES
 - Fixed editor crashes while testing.
 
-We are closing in on HPU updates so there will probably be three more updates before i finish this game.
+We are closing in on HPU updates so there will probably be one more update before i finish this game.
 And i'm just saying, it's about to get spicy. Hope you are ready to become a finalist.
 
 Click SPACE to read patch notes.

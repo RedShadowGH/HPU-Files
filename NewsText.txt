@@ -1,9 +1,8 @@
-1st Dec 2022
-#####
+[1st Dec 2022]
 It's a beautiful time of the year and there is a new update, 1.7.0!
 This update is a big one containing a new series and several bug fixes and adjustments.
 
-MAIN CHANGES
+[MAIN CHANGES]
 - CHRISTMAS SERIES! Three new levels with three new types of pain and suffering.
 - GAME JOLT TROPHIES! Earn rewards by playing the game!
 - Added Discord Rich Presence support.
@@ -18,13 +17,13 @@ MAIN CHANGES
 - Added menu music, made by RedShadow
 - Changed icon and logo of the game to fit Christmas.
 
-ADJUSTMENTS
+[ADJUSTMENTS]
 - ​Changed colours in the Easy Series.
 - Made Main Menu background more transparent.
 - Changed credits a little bit.
 - Changed names of "Laser ver" and "Laser hor" to "Laser" and "Rotated Laser"
 
-BUG FIXES
+[BUG FIXES]
 - Fixed editor crashes while testing.
 
 We are closing in on HPU updates so there will probably be one more update before i finish this game.

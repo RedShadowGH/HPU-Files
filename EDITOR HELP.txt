@@ -59,9 +59,7 @@ You can also edit your level directly in the INI file, the level data file by pr
       cddddc.                       ;dddd:    
       cddddc.                       ;dddd:    
       cddddc.                       ;dddd:  
-      cddddc.                       ;dddd:   
-      cddddc.                       ;dddd:  
-      cddddl'                       :dddd:      
+      cddddc.                       ;dddd:       
       cdddddolllllllllllllllllllllloodddd:      
       cdddddddddddddddddddddddddddddddddd:      
             odddddddl      ldddddddol      

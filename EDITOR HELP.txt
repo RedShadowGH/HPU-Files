@@ -1,0 +1,68 @@
+  __  ___________  _______  ________ ______  _______  ______________  ___ 
+ / / / / __/  _/ |/ / ___/ /_  __/ // / __/ / __/ _ \/  _/_  __/ __ \/ _ \
+/ /_/ /\ \_/ //    / (_ /   / / / _  / _/  / _// // // /  / / / /_/ / , _/
+\____/___/___/_/|_/\___/   /_/ /_//_/___/ /___/____/___/ /_/  \____/_/|_| 
+
+Using the HARD PLATFORMER ULTIMATE editor is easy. You just really need to memorize the buttons on your keyboard and that's it!
+
+In short:
+- Press 1 - 7 to choose a block.
+- Left click - Place block
+- Right click - Delete block
+- Ctrl + S - Save level
+- Ctrl + L - Load level
+- Ctrl + I - Open level in INI editor
+- Esc+Space+Del - Completely RESET level! (NO WARNING)
+- T - Toggle Test Mode
+- Backspace - Quit
+
+If you want to know everything about the editor please read everything below!
+
+   ___  __   ____  _______ ______
+  / _ )/ /  / __ \/ ___/ //_/ __/
+ / _  / /__/ /_/ / /__/ ,< _\ \  
+/____/____/\____/\___/_/|_/___/   
+
+You have 7 blocks to choose from in the games. 
+There are ordinary blocks, lasers, slime blocks, and Spikeys along with its barriers. 
+You can stand on ordinary blocks, you die if you touch the lasers or Spikeys, you can infinitely jump while touching the slime and the barriers are invisible during gameplay.
+
+   
+   ___  ___________________  _  ______
+  / _ |/ ___/_  __/  _/ __ \/ |/ / __/
+ / __ / /__  / / _/ // /_/ /    /\ \  
+/_/ |_\___/ /_/ /___/\____/_/|_/___/ 
+
+You can place and delete blocks in the editor for now.
+By pressing left-click you can place a selected block.
+By pressing right-click you can delete a highlighted block.
+You can completely NUKE your level by pressing Escape, Space and Delete at the same time. Be warned because you don't get any warnings! It just deletes all blocks.
+
+
+   __________   ____
+  / __/  _/ /  / __/
+ / _/_/ // /__/ _/  
+/_/ /___/____/___/  
+
+You can save by pressing Control and S or L.
+By pressing Control and S you can save your level. Press it more times to be sure you save it! Pressing it one time might not work on your computer.
+By pressing Control and L you can load your level.
+
+You can also edit your level directly in the INI file, the level data file by pressing Control and I. It's very useful for placing the blocks at very specific coordinates.
+
+      ccccccccccccccccccccccccccccccccccc:
+      cdddddddddddddddddddddddddddddddddd:   
+      cdddddolooooooooooooooooooooloodddd:   
+      cddddl                        :dddd:    
+      cddddc.                       ;dddd:    
+      cddddc.                       ;dddd:    
+      cddddc.                       ;dddd:    
+      cddddc.                       ;dddd:    
+      cddddc.                       ;dddd:  
+      cddddc.                       ;dddd:   
+      cddddc.                       ;dddd:  
+      cddddl'                       :dddd:      
+      cdddddolllllllllllllllllllllloodddd:      
+      cdddddddddddddddddddddddddddddddddd:      
+            odddddddl      ldddddddol      
+            1lololol1      1llllllo11                     

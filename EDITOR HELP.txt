@@ -11,7 +11,6 @@ In short:
 - Right click - Delete block
 - Ctrl + S - Save level
 - Ctrl + L - Load level
-- Ctrl + I - Open level in INI editor
 - Esc+Space+Del - Completely RESET level! (NO WARNING)
 - T - Toggle Test Mode
 - Backspace - Quit

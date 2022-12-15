@@ -48,8 +48,6 @@ You can save by pressing Control and S or L.
 By pressing Control and S you can save your level. Press it more times to be sure you save it! Pressing it one time might not work on your computer.
 By pressing Control and L you can load your level.
 
-You can also edit your level directly in the INI file, the level data file by pressing Control and I. It's very useful for placing the blocks at very specific coordinates.
-
       ccccccccccccccccccccccccccccccccccc:
       cdddddddddddddddddddddddddddddddddd:   
       cdddddolooooooooooooooooooooloodddd:   

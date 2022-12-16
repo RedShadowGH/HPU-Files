@@ -1,33 +1,27 @@
-[1st Dec 2022]
-It's a beautiful time of the year and there is a new update, 1.7.0!
-This update is a big one containing a new series and several bug fixes and adjustments.
+[17th Dec 2022]
+You have received an early Christmas gift and it is 1.7.5! This update completely changes the editor and more!
 
 [MAIN CHANGES]
-- CHRISTMAS SERIES! Three new levels with three new types of pain and suffering.
-- GAME JOLT TROPHIES! Earn rewards by playing the game!
-- Added Discord Rich Presence support.
-- Added new jump and double jump effects. (Only in Versus and Editor for now)
-- Added new Versus level, LiteralHell by RedShadow
-- Added new animation in the splash screen.
-- New temporary menu theme.
-- Added News section in the Main Menu.
-- Added splash screen.
-- Removed auto-updater in favour of manual updating.
-- Finished rework of online code.
-- Added menu music, made by RedShadow
-- Changed icon and logo of the game to fit Christmas.
+- The EDITOR was remade! You were probably waiting for the update for a very long time!
+- 3 New Editor ITEMS! Spikeys and it's two borders.
+- Changed editor UI layout.
+- Completely new keybinding system!
+- Slight change to the player hitbox, you might feel it or not!
+- New option in settings! "MenuLogo" toggles the logo in the main menu.
+- Added some random sentences on the splash screen.
+- New "UPLOAD LVL" button in "Create" menu.
+- You can now name your levels and you can see how much objects they have and who created them.
 
 [ADJUSTMENTS]
-- ​Changed colours in the Easy Series.
-- Made Main Menu background more transparent.
-- Changed credits a little bit.
-- Changed names of "Laser ver" and "Laser hor" to "Laser" and "Rotated Laser"
+- New disconnect, kick and error messages!
+- Corrected the arrows in back buttons in menus.
+- Editors now use much more safe saving and loading methods.
 
 [BUG FIXES]
-- Fixed editor crashes while testing.
+- In previous versions, your level would partially save often with missing blocks. It has been fixed with the new saving and loading method.
 
-We are closing in on HPU updates so there will probably be one more update before i finish this game.
-And i'm just saying, it's about to get spicy. Hope you are ready to become a finalist.
+This is just one of the updates before the finale. 
+Ready to become a finalist?
 
 Merry Christmas!
 -RedShadow

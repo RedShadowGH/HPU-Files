@@ -1,27 +1,16 @@
-[17th Dec 2022]
-You have received an early Christmas gift and it is 1.7.5! This update completely changes the editor and more!
+​This update is all about bug fixes and some adjustments.
 
 [MAIN CHANGES]
-- The EDITOR was remade! You were probably waiting for the update for a very long time!
-- 3 New Editor ITEMS! Spikeys and it's two borders.
-- Changed editor UI layout.
-- Completely new keybinding system!
-- Slight change to the player hitbox, you might feel it or not!
-- New option in settings! "MenuLogo" toggles the logo in the main menu.
-- Added some random sentences on the splash screen.
-- New "UPLOAD LVL" button in "Create" menu.
-- You can now name your levels and you can see how much objects they have and who created them.
+- CHRISTMAS event is over!
 
 [ADJUSTMENTS]
-- New disconnect, kick and error messages!
-- Corrected the arrows in back buttons in menus.
-- Editors now use much more safe saving and loading methods.
+​- Changed some sprite colours.​
+​- "UPLOAD LVL" button now leads to a Discord server.
 
-[BUG FIXES]
-- In previous versions, your level would partially save often with missing blocks. It has been fixed with the new saving and loading method.
+[BUG FIXES​]
+- Fixed "Play Level" button and overall editor saving method.
+​
+The next updates are big. Ready to become a finalist?
 
-This is just one of the updates before the finale. 
-Ready to become a finalist?
-
-Merry Christmas!
+Happy new years!
 -RedShadow

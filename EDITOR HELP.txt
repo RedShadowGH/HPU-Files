@@ -9,7 +9,7 @@ In short:
 - Press 1 - 7 to choose a block.
 - Left click - Place block
 - Right click - Delete block
-- R - Rotate (Clockwise)
+- R - Rotate
 - Ctrl + S - Save level
 - Ctrl + L - Load level
 - Esc+Space+Del - Completely RESET level! (NO WARNING)
@@ -36,7 +36,6 @@ You can stand on ordinary blocks, you die if you touch the lasers or Spikeys, yo
 You can place and delete blocks in the editor for now.
 By pressing left-click you can place a selected block.
 By pressing right-click you can delete a highlighted block.
-By pressing R before placing a block, you can rotate said block 90° clockwise.
 You can completely NUKE your level by pressing Escape, Space and Delete at the same time. Be warned because you don't get any warnings! It just deletes all blocks.
 
 

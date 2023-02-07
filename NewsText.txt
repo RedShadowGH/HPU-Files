@@ -1,16 +1,3 @@
-This update is all about bug fixes and some adjustments.
+Are you ready to be a finalist?
 
-[MAIN CHANGES]
-- CHRISTMAS event is over!
-
-[ADJUSTMENTS]
-- Changed some sprite colours.
-- "UPLOAD LVL" button now leads to a Discord server.
-
-[BUG FIXES]
-- Fixed "Play Level" button and overall editor saving method.
-
-The next updates are big. Ready to become a finalist?
-
-Happy new years!
--RedShadow
+MARCH 2023

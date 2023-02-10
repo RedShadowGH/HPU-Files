@@ -9,7 +9,7 @@ In short:
 - Press 1 - 7 to choose a block.
 - Left click - Place block
 - Right click - Delete block
-- R - Rotate
+- F2 - Toggle Off-grid mode
 - Ctrl + S - Save level
 - Ctrl + L - Load level
 - Esc+Space+Del - Completely RESET level! (NO WARNING)

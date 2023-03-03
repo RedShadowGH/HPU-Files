@@ -1,7 +1,32 @@
-[7 / Feb / 2022]
-Are you ready to be a finalist?
+[3 / Mar / 2023]
 
-3RD MARCH 2023
+It is here. The update is here. Your finalist efforts paid off. 
+Celebrate the 1st birthday by taking a look at some amazing new updates.
+
+[MAIN CHANGES]
+- New FINALIST series, 5 NEW LEVELS!
+- Updated save file system, existing save file unusable.
+- Profile menu! Check out your stats.
+- Completely new settings menu!
+- Removed controller support due to bugs.
+
+[ADJUSTMENTS]
+- Updated Azapru's splash screen.
+- Level editor now auto-loads existing levels.
+- Changed main menu background colour to fit the update.
+- Added some effects in the splash screen.
+- Help menu changed.
+- Removed object count stat in level data.
+- Changed the tutorial messages in the 1 series. (1-1 - 1-5)
+
+[BUG FIXES]
+- Fixed several crashes in the game.
+- Fixed "Update Required." bug.
+- Fixed level editor not loading existing levels.
+
+There is too much changes to note them all! I hope you will enjoy the update. 
+There is still some things i would like to do in the game and i can't wait for the future updates!
+-RedShadow
 
 ---------------
 [21 / Dec / 2022]
